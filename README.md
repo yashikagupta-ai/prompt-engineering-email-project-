@@ -15,6 +15,10 @@ This project demonstrates prompt engineering to transform a casual follow-up ema
 
 ## 🖼️ Output
 Included images: `prompt1_output.png`, `prompt2_output.png`,`prompt3_output`
+🔗 [View the Colab notebook](./Email__prompt.ipynb)
+![Prompt 1 Output](prompt1_output.png)
+![Prompt 2 Output](prompt2_output.png)
+![Prompt 3 Output](prompt3_output.png)
 
 ---
 
